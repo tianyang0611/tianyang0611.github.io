@@ -22,7 +22,7 @@ sections:
         style: 'text-align: justify; font-size: 1.0em;'
       # Avatar customization
       avatar:
-        image: "static/uploads/avatar.jpg"
+        image: "uploads/avatar.jpg"
         size: medium # small, medium, large, xl, xxl
         shape: rounded # circle, square, rounded
 ---
