@@ -1,169 +1,108 @@
 ---
-# Display name
 title: Tian Yang (杨恬)
-
-# Pronouns (optional)
 pronouns: she/her
-
-# Status emoji
 status:
   icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
+email: ty11@iu.edu
 
-Email: ty11@iu.edu
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Social
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
+    url: "mailto:ty11@iu.edu"
+    label: Email
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tianyang0611
   - icon: brands/linkedin
     url: https://www.linkedin.com/
+  - icon: brands/x
+    url: https://x.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Environmental Science
+    institution: Indiana University Bloomington
+    date_start: 2024-08-01
+    date_end: ""
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Advisor: **Prof. Zhiying Li**  
+      Research focuses on hydroclimate extremes, especially abrupt transitions between dry and wet conditions.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. in Marine Geology
+    institution: Shandong University
+    date_start: 2021-09-01
+    date_end: 2024-06-30
     summary: |
-      GPA: 3.4/4.0
+      Advisor: **Prof. Chao Jia**
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.E. in Geological Engineering
+    institution: Taiyuan University of Technology
+    date_start: 2017-09-01
+    date_end: 2021-06-30
+
+# NEWS (replaces Experience)
+news:
+  - date: 2024-11
+    title: "Attended the Graduate Climate Conference (GCC)"
+    url: "https://graduateclimateconference.github.io/"
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Traveled to Boston to attend the 2024 Graduate Climate Conference and present research on weather whiplash.
+
+  - date: 2025-05
+    title: "Awarded the Sustainability Research Development Grant"
+    summary: |
+      Received Indiana University’s Sustainability Research Development Grant to support hydroclimate extreme event research ($7,000).
+
+  - date: 2025-03
+    title: "Won 1st Place at the AAG Climate Specialty Group Student Paper Competition"
+    url: "https://sites.google.com/view/aag-climate/awards/student-paper-competition"
+    summary: |
+      Received the **1st Place Student Award** for research on abrupt dry-to-wet transitions at the 2025 AAG Annual Meeting.
+
+# PUBLICATIONS
+publications:
+  - title: "Detecting the main driving force of runoff change in the Beiluo River Basin, China"
+    authors: "Yang, T., Yang, X., Jia, C.*"
+    journal: "Environmental Science and Pollution Research (2023)"
+  
+  - title: "Assessment of groundwater salinization impact in coastal aquifers based on the shared socioeconomic pathways"
+    authors: "Yang, T.*, Yang, H., Yang, F., Yang, X."
+    journal: "Environmental Research (2023)"
+
+# AWARDS
+awards:
+  - title: Sustainability Research Development Grant
+    date: "2025"
+    awarder: Indiana University
+    summary: "Awarded $7,000 to support research on hydroclimate extremes."
+
+  - title: 1st Place Student Paper Award
+    date: "2025"
+    awarder: AAG Climate Specialty Group
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        percent: 90
+      - name: R
         percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Climate & Hydrological Modeling
+        percent: 85
 
 languages:
   - name: English
-    percent: 100
+    percent: 95
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: brands/coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: brands/edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: brands/datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Hi! I am a Ph.D. student in Environmental Science at Indiana University Bloomington, advised by Prof. Zhiying Li. My research focuses on hydroclimate extremes, especially weather whiplash. I work with large climate datasets and use statistical and modeling approaches to understand the characteristics and drivers of these rapid hydroclimate shifts.
+Hi! I am a Ph.D. student in Environmental Science at Indiana University Bloomington, advised by **Prof. Zhiying Li**.  
+My research focuses on **hydroclimate extremes**, particularly **abrupt transitions between dry and wet conditions (weather whiplash)**.  
+I use large-sample climate datasets, statistical modeling, and atmospheric diagnostics to understand event characteristics, drivers, and impacts.
 
-Feel free to reach out if you are interested in my work or potential collaborations. I’m always excited to connect and discuss ideas!
+Feel free to reach out if you would like to connect or collaborate!
