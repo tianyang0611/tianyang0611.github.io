@@ -1,13 +1,6 @@
 ---
 # Display name
-title: Tian Yang
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+title: Tian Yang (杨恬)
 
 # Pronouns (optional)
 pronouns: she/her
@@ -19,8 +12,7 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Director of Cloud Infrastructure
+Email: ty11@iu.edu
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
