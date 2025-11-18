@@ -5,10 +5,6 @@ status:
   icon: ☕️
 superuser: true
 
-avatar:
-  image: "uploads/avatar.jpg"   
-  shape: square      # circle / rounded / square
-
 email: ty11@iu.edu
 
 # Social
@@ -42,5 +38,3 @@ You can find my Curriculum Vitae [here](/uploads/CV-TianYang-20.pdf).
 ## Publications
 
 1. **Yang, T.**, Yang, X., Jia, C.* (2023). Detecting the main driving force of runoff change in the Beiluo River Basin, China. *Environmental Science and Pollution Research*.[🔗 Article Link](https://link.springer.com/article/10.1007/s11356-023-28537-2)
-
-
