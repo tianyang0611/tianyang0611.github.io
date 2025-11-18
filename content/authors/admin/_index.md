@@ -164,4 +164,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Hi! I am a Ph.D. student in Environmental Science at Indiana University Bloomington, advised by Prof. Zhiying Li. My research focuses on hydroclimate extremes, especially weather whiplash. I work with large climate datasets and use statistical and modeling approaches to understand the characteristics and drivers of these rapid hydroclimate shifts.
+
+Feel free to reach out if you are interested in my work or potential collaborations. I’m always excited to connect and discuss ideas!
