@@ -11,38 +11,11 @@ profiles:
   - icon: at-symbol
     url: "mailto:ty11@iu.edu"
     label: Email
-  - icon: brands/github
-    url: https://github.com/tianyang0611
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/x
-    url: https://x.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: academicons/google-scholar
+    url: "https://scholar.google.com/fake-link"
+    label: Google Scholar
 
-# Education
-education:
-  - area: Ph.D. in Environmental Science
-    institution: Indiana University Bloomington
-    date_start: 2024-08-01
-    date_end: ""
-    summary: |
-      Advisor: **Prof. Zhiying Li**  
-      Research focuses on hydroclimate extremes, especially abrupt transitions between dry and wet conditions.
-
-  - area: M.S. in Marine Geology
-    institution: Shandong University
-    date_start: 2021-09-01
-    date_end: 2024-06-30
-    summary: |
-      Advisor: **Prof. Chao Jia**
-
-  - area: B.E. in Geological Engineering
-    institution: Taiyuan University of Technology
-    date_start: 2017-09-01
-    date_end: 2021-06-30
-
-# NEWS (replaces Experience)
+# NEWS
 news:
   - date: 2024-11
     title: "Attended the Graduate Climate Conference (GCC)"
@@ -71,38 +44,12 @@ publications:
     authors: "Yang, T.*, Yang, H., Yang, F., Yang, X."
     journal: "Environmental Research (2023)"
 
-# AWARDS
-awards:
-  - title: Sustainability Research Development Grant
-    date: "2025"
-    awarder: Indiana University
-    summary: "Awarded $7,000 to support research on hydroclimate extremes."
-
-  - title: 1st Place Student Paper Award
-    date: "2025"
-    awarder: AAG Climate Specialty Group
-
-# Skills
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        percent: 90
-      - name: R
-        percent: 80
-      - name: Climate & Hydrological Modeling
-        percent: 85
-
-languages:
-  - name: English
-    percent: 95
-  - name: Chinese
-    percent: 100
-
 ---
 
 Hi! I am a Ph.D. student in Environmental Science at Indiana University Bloomington, advised by **Prof. Zhiying Li**.  
 My research focuses on **hydroclimate extremes**, particularly **abrupt transitions between dry and wet conditions (weather whiplash)**.  
-I use large-sample climate datasets, statistical modeling, and atmospheric diagnostics to understand event characteristics, drivers, and impacts.
+I work with large climate datasets, statistical tools, and atmospheric diagnostics to understand the characteristics, drivers, and impacts of rapid hydroclimate shifts.
 
-Feel free to reach out if you would like to connect or collaborate!
+I received my **M.S. in Marine Geology from Shandong University** and my **B.E. in Geological Engineering from Taiyuan University of Technology**.
+
+You can find my Curriculum Vitae [**here**](https://example.com/fake-cv-link).
