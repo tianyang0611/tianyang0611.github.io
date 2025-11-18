@@ -20,7 +20,7 @@ Hi! I am a Ph.D. student in Environmental Science at Indiana University Blooming
 
 My research focuses on hydroclimate extremes, particularly abrupt transitions between dry and wet conditions (*weather whiplash*). I work with large climate datasets, statistical tools, and atmospheric diagnostics to understand the characteristics, drivers, and impacts of these rapid hydroclimate shifts. 
 
-You can find my Curriculum Vitae [here](https://example.com/fake-cv-link).
+You can find my Curriculum Vitae [here](/uploads/CV-TianYang-20.pdf).
 
 ---
 
