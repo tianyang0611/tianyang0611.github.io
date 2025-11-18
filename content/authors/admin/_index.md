@@ -4,6 +4,11 @@ pronouns: she/her
 status:
   icon: ☕️
 superuser: true
+
+avatar:
+  image: "uploads/avatar.jpg"   
+  shape: square      # circle / rounded / square
+
 email: ty11@iu.edu
 
 # Social
