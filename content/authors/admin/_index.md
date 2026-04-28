@@ -26,14 +26,10 @@ You can find my Curriculum Vitae [here](/uploads/CV-TianYang-22.pdf).
 ---
 
 ## News
-- **Mar 2025**: I won the First Place Graduate Student Poster Award at Indiana University’s Center of Excellence for Women & Technology Research Poster Competition. [Check it out!]([https://graduateclimateconference.github.io/](https://womenandtech.indiana.edu/about/news/2026/2026-04-21-research-poster-competition.html)) 
-
+- **Mar 2025**: I won the First Place Graduate Student Poster Award at Indiana University’s Center of Excellence for Women & Technology Research Poster Competition. [Check it out!](https://graduateclimateconference.github.io/](https://womenandtech.indiana.edu/about/news/2026/2026-04-21-research-poster-competition.html) 
 - **Dec 2025**: I gave a poster presentation at the American Geophysical Union (AGU) 2025 Annual Meeting in New Orleans. The presentation is about “Climatology and Trends of Abrupt Transition from Dry to Wet Extremes in the Contiguous United States”.
-- 
 - **Nov 2025**: I gave a poster presentation at the [Graduate Climate Conference](https://graduateclimateconference.github.io/) (GCC) in Boston. The presentation is about “Characteristics and Drivers of Abrupt Transition from Dry to Wet Extremes in the Contiguous United States”. 
-
 - **May 2025**: I was awarded the Sustainability Research Development Grant by IU Integrated Program in the Environment (~$6,000) to support my research on Characterizing Weather Whiplash and Its Impact on Midwest Corn Yields.
-
 - **Mar 2025**: I won 1st Place in the [Climate Specialty Group student paper competition](https://sites.google.com/view/aag-climate/awards/student-paper-competition) at the American Association of Geographers (AAG) 2025 Annual Meeting for a talk on weather whiplash.
 
 ---
